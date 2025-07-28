@@ -22,9 +22,8 @@
 | 16 | open_washing_machine.py | 打开洗衣机门 |
 | 17 | open_window.py | 打开窗户 |
 | 18 | close_laptop_lid.py | 合上笔记本电脑盖 |
-| 19 | take_lid_off_saucepan.py | 拿开炖锅盖 |
-| 20 | put_tray_in_oven.py | 把托盘放进烤箱 |
-| 21 | take_tray_out_of_oven.py | 从烤箱取出托盘 |
+| 19 | put_tray_in_oven.py | 把托盘放进烤箱 |
+| 20 | take_tray_out_of_oven.py | 从烤箱取出托盘 |
 
 ---
 
@@ -163,3 +162,4 @@
 | 22 | meat_on_grill.py | 把肉放到烤架上 |
 | 23 | meat_off_grill.py | 从烤架取下肉 |
 | 24 | lift_numbered_block.py | 抬起带编号的积木 |
+| 25 | take_lid_off_saucepan.py | 拿开炖锅盖 |
