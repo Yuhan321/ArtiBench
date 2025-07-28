@@ -38,15 +38,15 @@
 | 4 | put_all_groceries_in_cupboard.py | 把所有杂货放进橱柜 |
 | 5 | put_groceries_in_cupboard.py | 把杂货放进橱柜 |
 | 6 | put_books_on_bookshelf.py | 把书放到书架上 |
-| 7 | **put_shoes_in_box.py** | 把鞋子放进盒子 |
-| 8 | **take_shoes_out_of_box.py**| 从盒子里取出鞋子 |
+| 7 | **put_shoes_in_box.py** | **把鞋子放进盒子** |
+| 8 | **take_shoes_out_of_box.py**| **从盒子里取出鞋子** |
 | 9 | put_umbrella_in_umbrella_stand.py | 把雨伞插入伞架 |
 | 10 | take_umbrella_out_of_umbrella_stand.py | 从伞架取出雨伞 |
 | 11 | hang_frame_on_hanger.py | 把相框挂到衣架上 |
 | 12 | take_frame_off_hanger.py | 从衣架取下相框 |
-| 13 | **put_item_in_drawer.py** | 把物品放进抽屉 |
-| 14 | **take_item_out_of_drawer.py** | 从抽屉取出物品 |
-| 15 | **put_bottle_in_fridge.py** | 把瓶子放进冰箱 |
+| 13 | **put_item_in_drawer.py** | **把物品放进抽屉** |
+| 14 | **take_item_out_of_drawer.py** | **从抽屉取出物品** |
+| 15 | **put_bottle_in_fridge.py** | **把瓶子放进冰箱** |
 | 16 | **take_cup_out_from_cabinet.py** | 从橱柜取出杯子 |
 
 ---
@@ -64,8 +64,8 @@
 | 7 | place_cups.py | 摆放杯子到指定位置 |
 | 8 | place_hanger_on_rack.py | 把衣架挂到衣架架上 |
 | 9 | slide_block_to_target.py | 滑动方块到目标位置 |
-| 10 | **slide_cabinet_open_and_place_cups.py** | 打开橱柜并放置杯子 |
-| 11 | **slide_cabinet_open.py** | 打开橱柜门 |
+| 10 | **slide_cabinet_open_and_place_cups.py** | **打开橱柜并放置杯子** |
+| 11 | **slide_cabinet_open.py** | **打开橱柜门** |
 | 12 | remove_cups.py | 移除桌上的杯子 |
 
 ---
@@ -151,10 +151,10 @@
 | 10 | light_bulb_in.py | 安装灯泡 |
 | 11 | change_channel.py | 换电视频道 |
 | 12 | change_clock.py | 调整时钟 |
-| 13 | **turn_oven_on.py** | 打开烤箱 |
+| 13 | **turn_oven_on.py** | **打开烤箱** |
 | 14 | turn_tap.py | 打开水龙头 |
-| 15 | **toilet_seat_up.py** | 抬起马桶盖 |
-| 16 | **toilet_seat_down.py** | 放下马桶盖 |
+| 15 | **toilet_seat_up.py** | **抬起马桶盖** |
+| 16 | **toilet_seat_down.py** | **放下马桶盖** |
 | 17 | put_toilet_roll_on_stand.py | 把厕纸放到支架上 |
 | 18 | take_toilet_roll_off_stand.py | 从支架取下厕纸 |
 | 19 | scoop_with_spatula.py | 用铲子舀取 |
